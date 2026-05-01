@@ -1,1 +1,208 @@
-issue,subject,company,response,product_area,status,request_type,justification
+ticket_id,status,product_area,response,justification,request_type
+T001,error,unknown,Processing error: name 'corpus' is not defined,"Traceback (most recent call last):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 386, in main
+    res = process_ticket(ticket_id, ticket_text, company, index,
+                         dry_run=args.dry_run)
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 248, in process_ticket
+    resp    = generate_reply(ticket_text, classification, retrieved)
+NameError: name 'corpus' is not defined
+",invalid
+T002,error,unknown,Processing error: name 'corpus' is not defined,"Traceback (most recent call last):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 386, in main
+    res = process_ticket(ticket_id, ticket_text, company, index,
+                         dry_run=args.dry_run)
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 248, in process_ticket
+    resp    = generate_reply(ticket_text, classification, retrieved)
+NameError: name 'corpus' is not defined
+",invalid
+T003,escalated,visa - unknown,Thank you for reaching out. Your request has been escalated to our specialized support team because: Refund requests require review by the billing team. A human agent will contact you shortly.,Refund requests require review by the billing team,invalid
+T004,escalated,hackerrank - unknown,Thank you for reaching out. Your request has been escalated to our specialized support team because: Refund requests require review by the billing team. A human agent will contact you shortly.,Refund requests require review by the billing team,invalid
+T005,escalated,hackerrank - unknown,Thank you for reaching out. Your request has been escalated to our specialized support team because: Refund requests require review by the billing team. A human agent will contact you shortly.,Refund requests require review by the billing team,invalid
+T006,error,unknown,Processing error: name 'corpus' is not defined,"Traceback (most recent call last):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 386, in main
+    res = process_ticket(ticket_id, ticket_text, company, index,
+                         dry_run=args.dry_run)
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 248, in process_ticket
+    resp    = generate_reply(ticket_text, classification, retrieved)
+NameError: name 'corpus' is not defined
+",invalid
+T007,error,unknown,Processing error: name 'corpus' is not defined,"Traceback (most recent call last):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 386, in main
+    res = process_ticket(ticket_id, ticket_text, company, index,
+                         dry_run=args.dry_run)
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 248, in process_ticket
+    resp    = generate_reply(ticket_text, classification, retrieved)
+NameError: name 'corpus' is not defined
+",invalid
+T008,error,unknown,Processing error: name 'corpus' is not defined,"Traceback (most recent call last):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 386, in main
+    res = process_ticket(ticket_id, ticket_text, company, index,
+                         dry_run=args.dry_run)
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 248, in process_ticket
+    resp    = generate_reply(ticket_text, classification, retrieved)
+NameError: name 'corpus' is not defined
+",invalid
+T009,error,unknown,Processing error: name 'corpus' is not defined,"Traceback (most recent call last):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 386, in main
+    res = process_ticket(ticket_id, ticket_text, company, index,
+                         dry_run=args.dry_run)
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 248, in process_ticket
+    resp    = generate_reply(ticket_text, classification, retrieved)
+NameError: name 'corpus' is not defined
+",invalid
+T010,error,unknown,Processing error: name 'corpus' is not defined,"Traceback (most recent call last):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 386, in main
+    
+    def _worker(task):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 248, in process_ticket
+    sources = resp.sources
+              ^^^^^^^^^^^^
+NameError: name 'corpus' is not defined
+",invalid
+T011,error,unknown,Processing error: name 'corpus' is not defined,"Traceback (most recent call last):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 386, in main
+    
+    def _worker(task):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 248, in process_ticket
+    sources = resp.sources
+              ^^^^^^^^^^^^
+NameError: name 'corpus' is not defined
+",invalid
+T012,error,unknown,Processing error: name 'corpus' is not defined,"Traceback (most recent call last):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 386, in main
+    
+    def _worker(task):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 248, in process_ticket
+    sources = resp.sources
+              ^^^^^^^^^^^^
+NameError: name 'corpus' is not defined
+",invalid
+T013,error,unknown,Processing error: name 'corpus' is not defined,"Traceback (most recent call last):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 386, in main
+    
+    def _worker(task):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 248, in process_ticket
+    sources = resp.sources
+              ^^^^^^^^^^^^
+NameError: name 'corpus' is not defined
+",invalid
+T014,error,unknown,Processing error: name 'corpus' is not defined,"Traceback (most recent call last):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 386, in main
+    
+    def _worker(task):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 248, in process_ticket
+    sources = resp.sources
+              ^^^^^^^^^^^^
+NameError: name 'corpus' is not defined
+",invalid
+T015,error,unknown,Processing error: name 'corpus' is not defined,"Traceback (most recent call last):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 386, in main
+    
+    def _worker(task):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 248, in process_ticket
+    sources = resp.sources
+              ^^^^^^^^^^^^
+NameError: name 'corpus' is not defined
+",invalid
+T016,escalated,visa - unknown,Thank you for reaching out. Your request has been escalated to our specialized support team because: Potential account compromise or identity theft requires human verification. A human agent will contact you shortly.,Potential account compromise or identity theft requires human verification,invalid
+T017,error,unknown,Processing error: name 'corpus' is not defined,"Traceback (most recent call last):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 386, in main
+    
+    def _worker(task):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 248, in process_ticket
+    sources = resp.sources
+              ^^^^^^^^^^^^
+NameError: name 'corpus' is not defined
+",invalid
+T018,error,unknown,Processing error: name 'corpus' is not defined,"Traceback (most recent call last):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 386, in main
+    
+    def _worker(task):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 248, in process_ticket
+    sources = resp.sources
+              ^^^^^^^^^^^^
+NameError: name 'corpus' is not defined
+",invalid
+T019,error,unknown,Processing error: name 'corpus' is not defined,"Traceback (most recent call last):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 386, in main
+    
+    def _worker(task):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 248, in process_ticket
+    sources = resp.sources
+              ^^^^^^^^^^^^
+NameError: name 'corpus' is not defined
+",invalid
+T020,error,unknown,Processing error: name 'corpus' is not defined,"Traceback (most recent call last):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 386, in main
+    
+    def _worker(task):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 248, in process_ticket
+    sources = resp.sources
+              ^^^^^^^^^^^^
+NameError: name 'corpus' is not defined
+",invalid
+T021,error,unknown,Processing error: name 'corpus' is not defined,"Traceback (most recent call last):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 386, in main
+    
+    def _worker(task):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 248, in process_ticket
+    sources = resp.sources
+              ^^^^^^^^^^^^
+NameError: name 'corpus' is not defined
+",invalid
+T022,error,unknown,Processing error: name 'corpus' is not defined,"Traceback (most recent call last):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 386, in main
+    
+    def _worker(task):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 248, in process_ticket
+    sources = resp.sources
+              ^^^^^^^^^^^^
+NameError: name 'corpus' is not defined
+",invalid
+T023,error,unknown,Processing error: name 'corpus' is not defined,"Traceback (most recent call last):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 386, in main
+    
+    def _worker(task):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 248, in process_ticket
+    sources = resp.sources
+              ^^^^^^^^^^^^
+NameError: name 'corpus' is not defined
+",invalid
+T024,escalated,claude - unknown,Thank you for reaching out. Your request has been escalated to our specialized support team because: This request appears to contain a system command or prompt injection attempt and cannot be processed by the support agent. A human agent will contact you shortly.,This request appears to contain a system command or prompt injection attempt and cannot be processed by the support agent,invalid
+T025,escalated,visa - unknown,Thank you for reaching out. Your request has been escalated to our specialized support team because: This request appears to contain a system command or prompt injection attempt and cannot be processed by the support agent. A human agent will contact you shortly.,This request appears to contain a system command or prompt injection attempt and cannot be processed by the support agent,invalid
+T026,error,unknown,Processing error: name 'corpus' is not defined,"Traceback (most recent call last):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 386, in main
+    
+    def _worker(task):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 248, in process_ticket
+    sources = resp.sources
+              ^^^^^^^^^^^^
+NameError: name 'corpus' is not defined
+",invalid
+T027,error,unknown,Processing error: name 'corpus' is not defined,"Traceback (most recent call last):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 386, in main
+    
+    def _worker(task):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 248, in process_ticket
+    sources = resp.sources
+              ^^^^^^^^^^^^
+NameError: name 'corpus' is not defined
+",invalid
+T028,error,unknown,Processing error: name 'corpus' is not defined,"Traceback (most recent call last):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 386, in main
+    
+    def _worker(task):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 248, in process_ticket
+    sources = resp.sources
+              ^^^^^^^^^^^^
+NameError: name 'corpus' is not defined
+",invalid
+T029,error,unknown,Processing error: name 'corpus' is not defined,"Traceback (most recent call last):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 386, in main
+    
+    def _worker(task):
+  File ""/Users/harsha/Projects/hackerrank-orchestrate-may26/code/main.py"", line 248, in process_ticket
+    sources = resp.sources
+              ^^^^^^^^^^^^
+NameError: name 'corpus' is not defined
+",invalid

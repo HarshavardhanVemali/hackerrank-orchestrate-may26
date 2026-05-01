@@ -1,0 +1,11 @@
+groq
+rank-bm25
+requests
+beautifulsoup4
+pandas
+python-dotenv
+pytest
+colorama
+certifi
+matplotlib
+google-generativeai
