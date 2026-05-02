@@ -13,18 +13,18 @@ The agent achieved the following metrics on the full evaluation set (29 tickets)
 | Metric | Achievement |
 |:--- |:--- |
 | **Total Tickets** | 29 |
-| **Automation Rate** | 79.3% (Replied) |
-| **Escalation Rate** | 20.7% (Safe Escalation) |
+| **Automation Rate** | 82.8% (Replied) |
+| **Escalation Rate** | 17.2% (Safe Escalation) |
 | **Throughput** | ~14.5 tickets/minute |
 | **Success Rate** | 100% (Zero unhandled exceptions) |
 
 <p align="center">
-  <img src="results/status_distribution.png" height="300" />
-  <img src="results/domain_breakdown.png" height="300" />
+  <img src="results/status_distribution.png" width="400" height="300" />
+  <img src="results/domain_breakdown.png" width="400" height="300" />
 </p>
 <p align="center">
-  <img src="results/request_type_breakdown.png" height="300" />
-  <img src="results/escalation_by_domain.png" height="300" />
+  <img src="results/request_type_breakdown.png" width="400" height="300" />
+  <img src="results/escalation_by_domain.png" width="400" height="300" />
 </p>
 
 ---
