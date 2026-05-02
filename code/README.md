@@ -20,10 +20,10 @@ The agent achieved the following metrics on the full evaluation set (29 tickets)
 
 <p align="center">
   <img src="results/status_distribution.png" width="400" height="300" />
-  <img src="results/domain_breakdown.png" width="400" height="300" />
+  <img src="results/request_type_breakdown.png" width="400" height="300" />
 </p>
 <p align="center">
-  <img src="results/request_type_breakdown.png" width="400" height="300" />
+  <img src="results/domain_breakdown.png" width="400" height="300" />
   <img src="results/escalation_by_domain.png" width="400" height="300" />
 </p>
 
